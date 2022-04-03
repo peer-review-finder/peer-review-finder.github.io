@@ -1,4 +1,3 @@
-# Peer Review Finder
 
 ## Table of Contents
 * [Overview](#overview)
