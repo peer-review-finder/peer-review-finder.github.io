@@ -25,8 +25,8 @@ New user goes to landing page, registers, gets profile setup page, completes pro
 ![](images/prototype/listing.png)
 
 ## The Team
-- [Yiwen Chen](https://github.com/yiwenc22)
-- [Derrick Luyen](https://github.com/derrickluyen/)
-- [Kolwin Dixon](https://github.com/k-l-dixon)
-- [John Dobbs](https://github.com/john-dobbs)
-- [Aditi Jaiswal](https://github.com/jaiswal-aditi)
+- [Yiwen Chen](https://yiwenc22.github.io/)
+- [Derrick Luyen](https://derrickluyen.github.io/)
+- [Kolwin Dixon](https://k-l-dixon.github.io/)
+- [John Dobbs](https://john-dobbs.github.io/)
+- [Aditi Jaiswal](https://jaiswal-aditi.github.io/)
