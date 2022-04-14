@@ -1,8 +1,6 @@
-<p align="center">
-  
+ 
 ## Table of Contents
  
-</p>
 
 * [Overview](#overview)
 * [Peer Review Finder](#covid-check)
@@ -20,7 +18,7 @@ The solution: We propose a platform that better matches papers for review with p
 
 ## User Manual
 ## Landing Page
-New user goes to landing page, registers, gets profile setup page, completes profile.
+New users are first taken to a landing page.  Here users see a brief description of features within the application.  A Login link is provided on the top right of the page to allow existing users to login with their profile or for new users to register and setup a profile setup page. <br></br>
 ![](images/prototype/landing.png)
 ## User Home Page
 
