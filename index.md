@@ -18,13 +18,30 @@ The solution: We propose a platform that better matches papers for review with p
 
 ## User Manual
 ## Landing Page
-New users are first taken to a landing page.  Here users see a brief description of features within the application.  A Login link is provided on the top right of the page to allow existing users to login with their profile or for new users to register and setup a profile setup page. <br>
+New users are first taken to a landing page.  Here users see a brief description of features within the application.  A Login link is provided on the top right of the page to allow existing users to login with their profile or for new users to register and setup a profile setup page. <br><br>
 ![](images/prototype/Default-Landing.png)
 ## User Home Page
 
-![](images/prototype/user-landing.png)
+"Sign Up" brings users to sign in page to register an email and password: <br><br>
+![](images/prototype/new-user-register.png)
+<br><br>
+
+"Sign In" brings users to a similar page which users use thier registered email and password to sign in with their profile: <br><br>
+![](images/prototype/existing-user-login.png)
+
+A successful login brings users to the following page: <br><br>
+![](images/prototype/user-homepage.png)
+
 ## Listing Page
-![](images/prototype/listing.png)
+By cliking "Paper to Review" in the NavBar, users are able to see papers that are available to review.  Papers availble are listed with a brief abstract along with a link to view each paper and an "Upload Paper" link to the right and under the search bar:<br><br>
+![](images/prototype/paper-to-review.png)
+<br><br>
+![](images/prototype/upload-paper.png)
+
+Selecting "view paper" allows users to see a full abstract of a particular paper along with a linnk to download the full paper: <br><br>
+![](images/prototype/example-paper.png)
+<br><br>
+
 
 ## The Team
 - [Yiwen Chen](https://yiwenc22.github.io/)
