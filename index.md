@@ -1,5 +1,9 @@
-
+<p align="center">
+  
 ## Table of Contents
+ 
+</p>
+
 * [Overview](#overview)
 * [Peer Review Finder](#covid-check)
 * [User Manual](#user-manual)
