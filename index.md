@@ -38,7 +38,7 @@ By cliking "Paper to Review" in the NavBar, users are able to see papers that ar
 <br><br>
 ![](images/prototype/upload-paper.png)
 
-Selecting "view paper" allows users to see a full abstract of a particular paper along with a linnk to download the full paper: <br><br>
+Selecting "view paper" allows users to see a full abstract of a particular paper along with a link to download the full paper: <br><br>
 ![](images/prototype/example-paper.png)
 <br><br>
 
