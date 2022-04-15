@@ -46,49 +46,49 @@ The following sections describe the main features of this application as of Mile
 
 New users are first taken to a landing page.  Here users see a brief description of features within the application.  A Login link is provided on the top right of the page to allow existing users to login with their profile or for new users to register and setup a profile setup page.
 
-![](images/prototype/Default-Landing.png)
+![](images/m1/Default-Landing.png)
 
 
 ## Login Page
 
 Clicking on the Login link and then on the Sign In menu item, you will receive the following page:
 
-![](images/prototype/existing-user-login.png)
+![](images/m1/existing-user-login.png)
 
 
 ## Register Page
 
 Clicking on the Login link and then on the Sign Up menu item, you will receive the following page:
 
-![](images/prototype/new-user-register.png)
+![](images/m1/new-user-register.png)
 
 
 ## Landing Page After Login (General User)
 
 A successful login brings users to the following page:
 
-![](images/prototype/user-homepage.png)
+![](images/m1/user-homepage.png)
 
 
 ## Paper Listing Page (All Users)
 
 By clicking "Paper to Review" in the NavBar, users are able to see papers that are available to review.  Papers available are listed with a brief abstract along with a link to view each paper and an "Upload Paper" button to the right and under the search bar:
 
-![](images/prototype/paper-to-review.png)
+![](images/m1/paper-to-review.png)
 
 
 ## Add Paper Page (All Users)
 
 Clicking the "Upload Paper" button on the [Paper Listing page](#paper-listing-page-all-users) allows users to add a new paper:
 
-![](images/prototype/upload-paper.png)
+![](images/m1/upload-paper.png)
 
 
 ## View Paper Page (All Users)
 
 Clicking the "View Paper" button on the [Paper Listing page](#paper-listing-page-all-users) allows users to see a full abstract of a particular paper along with a link to download the full paper:
 
-![](images/prototype/example-paper.png)
+![](images/m1/example-paper.png)
 
 
 # Developer Guide
