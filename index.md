@@ -43,14 +43,15 @@ Selecting "view paper" allows users to see a full abstract of a particular paper
 <br><br>
 
 
-## Project Team
+## Project Team 
 - [Yiwen Chen](https://yiwenc22.github.io/)
 - [Derrick Luyen](https://derrickluyen.github.io/)
 - [Kolwin Dixon](https://k-l-dixon.github.io/)
 - [John Dobbs](https://john-dobbs.github.io/)
 - [Aditi Jaiswal](https://jaiswal-aditi.github.io/)
 
-### [Team Contract](https://docs.google.com/document/d/129I7p6RzvGBnGv6KCANo64H4_rCuaIOBxddQX1s_jI8/edit)
-### [Deployment](http://159.65.97.195/)
-### [M1](https://github.com/peer-review-finder/Source-Code/projects/1)
-### [M2](https://github.com/peer-review-finder/Source-Code/projects/2)
+## Project Deliverables
+- [Team Contract](https://docs.google.com/document/d/129I7p6RzvGBnGv6KCANo64H4_rCuaIOBxddQX1s_jI8/edit)
+- [Deployment](http://159.65.97.195/)
+- [M1](https://github.com/peer-review-finder/Source-Code/projects/1)
+- [M2](https://github.com/peer-review-finder/Source-Code/projects/2)
