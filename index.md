@@ -16,7 +16,7 @@ title: Peer Review Finder
 * [GitHub Organization](https://github.com/peer-review-finder)
 * [Team Contract](https://docs.google.com/document/d/129I7p6RzvGBnGv6KCANo64H4_rCuaIOBxddQX1s_jI8/edit?usp=sharing)
 * [Project Board Milestone 1 (Completed)](https://github.com/peer-review-finder/Source-Code/projects/1)
-* [Project Board Milestone 1 (In Progress)](https://github.com/peer-review-finder/Source-Code/projects/2)
+* [Project Board Milestone 2 (In Progress)](https://github.com/peer-review-finder/Source-Code/projects/2)
 
 
 ## The Problem
