@@ -53,5 +53,5 @@ Selecting "view paper" allows users to see a full abstract of a particular paper
 ## Project Deliverables
 - [Team Contract](https://docs.google.com/document/d/129I7p6RzvGBnGv6KCANo64H4_rCuaIOBxddQX1s_jI8/edit)
 - [Deployment](http://159.65.97.195/)
-- [M1](https://github.com/peer-review-finder/Source-Code/projects/1)
-- [M2](https://github.com/peer-review-finder/Source-Code/projects/2)
+- [Milestone1](https://github.com/peer-review-finder/Source-Code/projects/1)
+- [Milestone2](https://github.com/peer-review-finder/Source-Code/projects/2)
