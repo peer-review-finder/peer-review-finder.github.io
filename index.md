@@ -1,57 +1,145 @@
- 
-## Table of Contents
- 
+---
+title: Peer Review Finder
+---
 
-* [Overview](#overview)
-* [Peer Review Finder](#peer-review-finder)
-* [User Manual](#user-manual)
-* [The Team](#project-team)
+# Table of Contents
 
-
-## Overview
-The problem: Journal editors and conference chairs find it increasingly difficult to find reviewers for publication manuscripts. At the same time, researchers receive an overwhelming number of invitations to review papers.
-
-The solution: We propose a platform that better matches papers for review with potential reviewers by pooling researchers with similar interests together. Editors/chairs can post abstracts in need of review and researchers can select abstracts of papers they’d like to review.
-
-## Peer Review Finder
+* [About Peer Review Finder](#about-peer-review-finder)
+* [Deployment](#deployment)
+* [User Guide](#user-guide)
+* [Project Team](#project-team)
 
 
-## User Manual
+# About Peer Review Finder
+
+* [Live Demo](http://159.65.97.195/)
+* [GitHub Organization](https://github.com/peer-review-finder)
+* [Team Contract](https://docs.google.com/document/d/129I7p6RzvGBnGv6KCANo64H4_rCuaIOBxddQX1s_jI8/edit?usp=sharing)
+* [Project Board Milestone 1 (Completed)](https://github.com/peer-review-finder/Source-Code/projects/1)
+* [Project Board Milestone 1 (In Progress)](https://github.com/peer-review-finder/Source-Code/projects/2)
+
+
+## The Problem
+
+Journal editors and conference chairs find it increasingly difficult to find reviewers for publication manuscripts. At the same time, researchers receive an overwhelming number of invitations to review papers.
+
+
+## The Solution
+
+We propose a platform that better matches papers for review with potential reviewers by pooling researchers with similar interests together. Editors/chairs can post abstracts in need of review and researchers can select abstracts of papers they'd like to review.
+
+
+# Deployment
+
+We are using DigitalOcean for deployment of this application.
+
+[Live Demo](http://159.65.97.195/)
+
+
+# User Guide
+
+The following sections describe the main features of this application as of Milestone 1.
+
+
 ## Landing Page
-New users are first taken to a landing page.  Here users see a brief description of features within the application.  A Login link is provided on the top right of the page to allow existing users to login with their profile or for new users to register and setup a profile setup page. <br><br>
+
+New users are first taken to a landing page.  Here users see a brief description of features within the application.  A Login link is provided on the top right of the page to allow existing users to login with their profile or for new users to register and setup a profile setup page.
+
 ![](images/prototype/Default-Landing.png)
-## User Home Page
 
-"Sign Up" brings users to sign in page to register an email and password: <br><br>
-![](images/prototype/new-user-register.png)
-<br><br>
 
-"Sign In" brings users to a similar page which users use thier registered email and password to sign in with their profile: <br><br>
+## Login Page
+
+Clicking on the Login link and then on the Sign In menu item, you will receive the following page:
+
 ![](images/prototype/existing-user-login.png)
 
-A successful login brings users to the following page: <br><br>
+
+## Register Page
+
+Clicking on the Login link and then on the Sign Up menu item, you will receive the following page:
+
+![](images/prototype/new-user-register.png)
+
+
+## Landing Page After Login (General User)
+
+A successful login brings users to the following page:
+
 ![](images/prototype/user-homepage.png)
 
-## Listing Page
-By cliking "Paper to Review" in the NavBar, users are able to see papers that are available to review.  Papers availble are listed with a brief abstract along with a link to view each paper and an "Upload Paper" link to the right and under the search bar:<br><br>
+
+## Listing Page (All Users)
+
+By clicking "Paper to Review" in the NavBar, users are able to see papers that are available to review.  Papers available are listed with a brief abstract along with a link to view each paper and an "Upload Paper" button to the right and under the search bar:
+
 ![](images/prototype/paper-to-review.png)
-<br><br>
+
+
+## Add Paper Page (All Users)
+
+Clicking the "Upload Paper" button on the [Paper Listing page](#paper-listing) allows users to add a new paper:
+
 ![](images/prototype/upload-paper.png)
 
-Selecting "view paper" allows users to see a full abstract of a particular paper along with a link to download the full paper: <br><br>
+
+## View Paper Page (All Users)
+
+Clicking the "View Paper" button on the [Paper Listing page](#paper-listing) allows users to see a full abstract of a particular paper along with a link to download the full paper:
+
 ![](images/prototype/example-paper.png)
-<br><br>
 
 
-## Project Team 
+# Developer Guide
+
+
+## Backend System
+
+This application was built on meteor-application-template-react.  For information regarding this template, please refer to [https://ics-software-engineering.github.io/meteor-application-template-react/](https://ics-software-engineering.github.io/meteor-application-template-react/)
+
+
+## Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [download a copy of Peer Review Finder](https://github.com/peer-review-finder/Source-Code).
+
+Third, cd into the app directory and install the required libraries:
+
+```
+cd /path/to/peer-review-finder
+cd app
+meteor npm install
+```
+
+
+## Running the system
+
+Once the libraries are installed, you can run the application by invoking:
+
+```
+meteor npm run start
+```
+
+
+## Viewing the running app
+
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).
+
+
+## ESLint
+
+You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
+
+```
+meteor npm run lint
+```
+
+
+# Project Team
+
 - [Yiwen Chen](https://yiwenc22.github.io/)
 - [Derrick Luyen](https://derrickluyen.github.io/)
 - [Kolwin Dixon](https://k-l-dixon.github.io/)
 - [John Dobbs](https://john-dobbs.github.io/)
 - [Aditi Jaiswal](https://jaiswal-aditi.github.io/)
-
-## Project Deliverables
-- [Team Contract](https://docs.google.com/document/d/129I7p6RzvGBnGv6KCANo64H4_rCuaIOBxddQX1s_jI8/edit)
-- [Deployment](http://159.65.97.195/)
-- [Milestone1](https://github.com/peer-review-finder/Source-Code/projects/1)
-- [Milestone2](https://github.com/peer-review-finder/Source-Code/projects/2)
