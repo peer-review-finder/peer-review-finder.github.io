@@ -7,6 +7,7 @@ title: Peer Review Finder
 * [About Peer Review Finder](#about-peer-review-finder)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Project Team](#project-team)
 
 
@@ -69,7 +70,7 @@ A successful login brings users to the following page:
 ![](images/prototype/user-homepage.png)
 
 
-## Listing Page (All Users)
+## Paper Listing Page (All Users)
 
 By clicking "Paper to Review" in the NavBar, users are able to see papers that are available to review.  Papers available are listed with a brief abstract along with a link to view each paper and an "Upload Paper" button to the right and under the search bar:
 
@@ -78,14 +79,14 @@ By clicking "Paper to Review" in the NavBar, users are able to see papers that a
 
 ## Add Paper Page (All Users)
 
-Clicking the "Upload Paper" button on the [Paper Listing page](#paper-listing) allows users to add a new paper:
+Clicking the "Upload Paper" button on the [Paper Listing page](#paper-listing-page-all-users) allows users to add a new paper:
 
 ![](images/prototype/upload-paper.png)
 
 
 ## View Paper Page (All Users)
 
-Clicking the "View Paper" button on the [Paper Listing page](#paper-listing) allows users to see a full abstract of a particular paper along with a link to download the full paper:
+Clicking the "View Paper" button on the [Paper Listing page](#paper-listing-page-all-users) allows users to see a full abstract of a particular paper along with a link to download the full paper:
 
 ![](images/prototype/example-paper.png)
 
