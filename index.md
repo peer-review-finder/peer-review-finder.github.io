@@ -3,9 +3,9 @@
  
 
 * [Overview](#overview)
-* [Peer Review Finder](#covid-check)
+* [Peer Review Finder](#peer-review-finder)
 * [User Manual](#user-manual)
-* [The Team](#the-team)
+* [The Team](#project-team)
 
 
 ## Overview
