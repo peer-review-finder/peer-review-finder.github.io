@@ -93,7 +93,9 @@ Clicking the "View Paper" button on the [Paper Listing page](#paper-listing-page
 
 # Developer Guide
 
-This project currently passes the Continuous Integration via Github Actions as shown by this badge here: ![ci-badge](https://github.com/peer-review-finder/Source-Code/workflows/ci-peer-review-finder/badge.svg)
+This project currently passes the Continuous Integration via Github Actions as shown by this badge: 
+
+![ci-badge](https://github.com/peer-review-finder/Source-Code/workflows/ci-peer-review-finder/badge.svg)
 
 ## Backend System
 
