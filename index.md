@@ -39,56 +39,92 @@ We are using DigitalOcean for deployment of this application.
 
 # User Guide
 
-The following sections describe the main features of this application as of Milestone 1.
+The following sections describe the main features of this application as of Milestone 2.
 
 
 ## Landing Page
 
-New users are first taken to a landing page.  Here users see a brief description of features within the application.  A Login link is provided on the top right of the page to allow existing users to login with their profile or for new users to register and setup a profile setup page.
+New users are first taken to a landing page.  Here users see a brief description of features within the application.  A Login link is provided on the top right of the page to allow existing users to login with their profile or for new users to register and setup a profile page.
 
 ![](images/m1/Default-Landing.png)
 
 
 ## Login Page
 
-Clicking on the Login link and then on the Sign In menu item, you will receive the following page:
+Clicking on the Login link and then on the Sign In menu item, you will be directed to the page pictured below. On this page, users can log in to Peer Review Finder to access the web application.
 
 ![](images/m1/existing-user-login.png)
 
 
 ## Register Page
 
-Clicking on the Login link and then on the Sign Up menu item, you will receive the following page:
+Clicking on the Login link and then on the Sign Up menu item, you will be directed to the page pictured below. On this page, new users can sign up and create a Peer Review Finder account. 
 
 ![](images/m1/new-user-register.png)
 
 
 ## Landing Page After Login (General User)
 
-A successful login brings users to the following page:
+A successful login brings users to the following page below. Here, users have access to the many different functionalities as explained in the sections below.
+
+![](images/m1/user-homepage.png)
+
+
+## Profile Page
+
+After logging in to your Peer Review Finder account, clicking on your email in the navbar on the top right of the page prompts a dropdown to show up. If you click on View Profile, you will be redirected to your profile page. From here, you can view your profile and you can also edit your profile by clicking on the Edit Profile button.
+
+![](images/m1/user-homepage.png)
+
+
+### Edit Profile Page
+
+After clicking on the Edit Profile button, you will be redirected to the page below where you can edit your Peer Review Finder profile which consists of your name, your profile image, and your interests. After you have finished, you can press submit to save your changes and from there, you will be redirected to your profile page.
 
 ![](images/m1/user-homepage.png)
 
 
 ## Paper Listing Page (All Users)
 
-By clicking "Paper to Review" in the NavBar, users are able to see papers that are available to review.  Papers available are listed with a brief abstract along with a link to view each paper and an "Upload Paper" button to the right and under the search bar:
+By clicking "Paper to Review" in the NavBar, users are able to see papers that are available to review.  Papers available are listed with a brief abstract along with a link to view each paper and an "Upload Paper" button to the right and under the search bar.
 
 ![](images/m1/paper-to-review.png)
 
 
 ## Add Paper Page (All Users)
 
-Clicking the "Upload Paper" button on the [Paper Listing page](#paper-listing-page-all-users) allows users to add a new paper:
+Clicking the "Upload Paper" button on the [Paper Listing page](#paper-listing-page-all-users) allows users to add a new paper to the Peer Review Finder database to allow other users to view and review the paper.
 
 ![](images/m1/upload-paper.png)
 
 
 ## View Paper Page (All Users)
 
-Clicking the "View Paper" button on the [Paper Listing page](#paper-listing-page-all-users) allows users to see a full abstract of a particular paper along with a link to download the full paper:
+Clicking the "View Paper" button on the [Paper Listing page](#paper-listing-page-all-users) for a specific paper allows users to see a full abstract of that paper along with a link to download the full paper. 
 
 ![](images/m1/example-paper.png)
+
+This page also allows users to review the particular paper by typing in the review textbox and then pressing the submit button to submit the review to the database.
+
+![](images/m1/example-paper.png)
+
+After submitting the review, users are also allowed to edit the review, should they feel the need to make changes to their review for a certain paper.
+
+![](images/m1/example-paper.png)
+
+
+## Paper and Review Page (Yourself)
+
+By clicking "My Paper and Review" in the NavBar, users are able to see their own papers as well as peer reviews on their papers.  They can also upload papers to the Peer Review Finder database via the upload paper near the top right of the page. Users can also view, edit, and delete their papers.
+
+![](images/m1/paper-to-review.png)
+
+
+## Edit Paper Page
+
+By clicking on the edit paper button on the Paper and Review Page, users are able to edit their papers and upload the changes after they are done.
+
+![](images/m1/paper-to-review.png)
 
 
 # Developer Guide
