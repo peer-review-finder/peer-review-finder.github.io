@@ -5,5 +5,5 @@ show_downloads: false
 github:
   is_project_page: true
   repository_url: https://github.com/peer-review-finder/Source-Code
-  app_url: peer-review-finder.xyz
+  app_url: https://peer-review-finder.xyz
   board_url: https://github.com/peer-review-finder/Source-Code/projects/3
