@@ -13,7 +13,7 @@ title: Peer Review Finder
 
 # About Peer Review Finder
 
-* [Live Demo](peer-review-finder.xyz)
+* [Live Demo](https://peer-review-finder.xyz)
 * [GitHub Organization](https://github.com/peer-review-finder)
 * [Team Contract](https://docs.google.com/document/d/129I7p6RzvGBnGv6KCANo64H4_rCuaIOBxddQX1s_jI8/edit?usp=sharing)
 * [Project Board Milestone 1 (Completed)](https://github.com/peer-review-finder/Source-Code/projects/1)
@@ -34,7 +34,7 @@ We propose a platform that better matches papers for review with potential revie
 
 We are using DigitalOcean for deployment of this application.
 
-[Live Demo](http://159.65.97.195/)
+[Live Demo](https://peer-review-finder.xyz)
 
 
 # User Guide
