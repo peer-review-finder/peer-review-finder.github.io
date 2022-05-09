@@ -7,6 +7,7 @@ title: Peer Review Finder
 * [About Peer Review Finder](#about-peer-review-finder)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Project Team](#project-team)
 
@@ -139,6 +140,33 @@ By clicking on the edit paper button on the Paper and Review Page, users are abl
 By clicking on the View Review button on the View Paper Reviews page, users are able to view the review left on their paper, and rate quality of the review.
 
 ![](images/m2/view-review.png)
+
+
+# Community Feedback
+
+We interviewed five UH graduate community members to get their opinions on our project, here's what they said:
+
+### Henri C.
+- Landing page: expecting to be able to click on action related heading, such as "Create an Account!"
+- User home page: expecting to be able to click on "PAPERS MATCH YOUR INTEREST"
+- View papers page: searching does not work
+- Add paper page: unexpected behavior when invalid URL provided for "Link of Paper"
+- Edit paper page: expected to go back to my papers page when finished
+- My reviews page: would be nice to have a link to edit review
+- General: suggestion, move "View Papers" button in navbar to user home page
+
+### Chakhon L.
+I was able to complete the tasks in a reasonable amount of time. All the tasks were pretty straight forward, but it would be nice if it had auto filling for the author and an abstract like how easyBib can detect the author. Also, maybe allowing users to view the paper in the Your Review page will be convenient instead of searching for the paper in View Papers. I don’t think I will use the application if it goes live since I don’t write much paper and it seems like there is no reward for reviewing.
+
+### Hao W.
+The app overall is good. The app is also fast and clean. However, the location for some functionalities could be more intuitive. When you go to the home page, you should have the ability to view other papers, meaning put the view papers navbar item onto the home page. Also on my papers page, it would be nice to have the ability to upload a paper on that page as well. My reviews page could have the ability to edit reviews on the same page for convenience but this is not necessary. I would consider using the application if I wrote more papers and wanted them to be reviewed.
+
+### Katie Ac.
+- Functionality wise it’s fast and simple to use, and it feels like it’d be easy to put any paper on there
+- An “About” page might be nice to talk about the site’s intent, but idk how polished this is.
+- Is there a way to prevent idea stealing from papers? Like a confidentiality thing or copyright thing? Idk the correct term, but if I were hoping to submit a paper and my data wasn’t proprietary or my own, that would be a concern of mine
+
+Otherwise it looks like a cool site, I hope it goes well for your class!
 
 
 # Developer Guide
