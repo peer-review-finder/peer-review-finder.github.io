@@ -162,21 +162,21 @@ If the user has left no reviews yet, a helpful message is displayed explaining w
 
 ## View Paper Reviews (Paper Owner)
 
-By clicking on the View Paper button on the Paper and Review page, users are able to view a listing of reviews left on their paper.
+By clicking on the View Paper button on the My Papers page, users are able to view a listing of reviews left on their paper.
 
 ![](images/m3/view-paper-list-reviews.png)
 
 
 ## Edit Paper Page (Paper Owner and Admin Users)
 
-By clicking on the edit paper button on the Paper and Review Page, users are able to edit their papers and upload the changes after they are done.
+By clicking on the edit paper button on the My Papers Page, users are able to edit their papers and upload the changes after they are done.
 
 ![](images/m3/edit-paper.png)
 
 
 ## View/Rate Review Page (Paper Owner)
 
-By clicking on the View Review button on the View Paper Reviews page, users are able to view the review left on their paper, and rate quality of the review.  Users will receive 3 tokens for a 5 star review, 2 tokens for a 4 star review, 1 token for a 3 star review and 0 tokens otherwise.
+By clicking on the View Review button on the View Paper page, users are able to view the review left on their paper, and rate the quality of the review.  Users will receive 3 tokens for a 5 star review, 2 tokens for a 4 star review, 1 token for a 3 star review and 0 tokens otherwise.
 
 ![](images/m3/view-review.png)
 
@@ -189,7 +189,7 @@ By clicking "Admin" in the navbar, admin users are able to see all papers.  Admi
 
 ### Delete Paper
 
-By clicking the "Delete Paper" button for a particular paper, admin users are able to delete said paper.  Before deleting, a confirmation is displayed to ensure no accidental deletions.
+By clicking the "Delete Paper" button for a particular paper, admin users are able to delete said paper.  Before deleting, a confirmation is displayed to ensure no accidental deletions are made.
 
 ![](images/m3/admin-delete-paper.png)
 
